@@ -129,6 +129,7 @@ h3{
 .sidebar {
   background-color: whitesmoke;
   flex: 3;
+  width: 25%;
   height: calc(100vh - 50px);
   overflow-y: scroll;
   position: sticky;

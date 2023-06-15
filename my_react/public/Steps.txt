@@ -15,3 +15,9 @@ What steps I've taken in this project
 npm install @mui/icons-material @mui/material @emotion/styled @emotion/react
 
 7. Added assets folder that contains images for the project 
+
+8. Next to the Main section we added a sidebar consists of 2 section one showing details and other showing list of close friends
+
+9. Close friends are being rendered from a dummy database created under Src folder
+
+10. Using mapping function for each item in user database we created a component with name and picture
