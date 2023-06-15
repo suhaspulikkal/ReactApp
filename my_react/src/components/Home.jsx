@@ -3,6 +3,7 @@ import Navigationbar from "./Navigationbar";
 import "./Home.css"
 import Sidebar from "./Sidebar";
 import Feed from "./Feed";
+import Rightbar from "./Rightbar"
 
 export default function Home(){
   return(
@@ -14,6 +15,7 @@ export default function Home(){
 
         <Sidebar />
         <Feed />
+        <Rightbar />
       
       </div>
 

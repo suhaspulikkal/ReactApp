@@ -111,7 +111,7 @@ h3{
 
 
 .feed{
-  width: 50%;
+  width: 40%;
   /* flex: 5; */
   background-color: whitesmoke;
   padding: 10px;
@@ -337,6 +337,7 @@ background-color: white;
 }
 
 .rightBar{
+  width: 35%;
   background-color: whitesmoke;
   
 }
