@@ -21,3 +21,9 @@ npm install @mui/icons-material @mui/material @emotion/styled @emotion/react
 9. Close friends are being rendered from a dummy database created under Src folder
 
 10. Using mapping function for each item in user database we created a component with name and picture
+
+11. 2nd component in main section is Feeds component. We have two sub componenets in Feed section where 1st is Share componenet which is static and second is Post component which is Dynamic which will be added based on the data available in dummt database js file.
+
+12. In Post Component we have also used React States to like and dislike a photo.
+
+13. 
