@@ -1,0 +1,17 @@
+What steps I've taken in this project
+
+1. npx create-react-app my_firstapp
+
+2. Intsalled react-router-dom for Routing
+
+3. After configuring Route in Routes we linked Home Component
+
+4. Home component is the Home page and the first sub component of Home page is navigationbar
+
+5. We imported Css file within the same directory to add styles to the componenets
+
+6. Navigationbar component consits icons which we used it from https://mui.com/material-ui/material-icons/ installing package 
+
+npm install @mui/icons-material @mui/material @emotion/styled @emotion/react
+
+7. Added assets folder that contains images for the project 
