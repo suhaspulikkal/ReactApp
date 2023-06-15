@@ -21,8 +21,8 @@ export default function Navigationbar(){
         <div className="naviRight">
 
           <div className="naviLinks">
-            <span className="navilink">Homepage</span>
-            <span className="navilink">Timeline</span>
+            <span className="navilink"><a href="/">Homepage </a></span>
+            <span className="navilink"><a href="profile"> Timeline </a></span>
           </div>
 
         <div className="topbaricons">

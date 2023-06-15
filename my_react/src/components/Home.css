@@ -39,6 +39,10 @@
   cursor: pointer;
   font-size: 14px;
 }
+.navilink a{
+  color: white;
+  text-decoration: none;
+}
 
 .topbaricons{
   display: flex;
