@@ -1,0 +1,13 @@
+Deployment
+
+1. First we install gh pages
+  npm gh-pages
+
+2. Second we configure the run deploy oce in package.json under scripts we add
+
+"predeploy": "npm run build",
+"deploy": "gh-pages -d build",
+
+3. configure home page settings in the beginning of the file to the hosting url
+
+  "homepage": "https://suhaspulikkal.github.io/ReactApp",
